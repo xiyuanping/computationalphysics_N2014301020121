@@ -1,4 +1,4 @@
-在此输入正文import time
+import time
 import os
 i= os.system('cls')
 time.sleep(1)
